@@ -1,0 +1,26 @@
+h3 {
+  text-align: center;
+  margin: 50px auto;
+}
+.btn {
+  display: block;
+  margin: auto;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  background: teal;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  background: lightslategray;
+}
+
+.info {
+  display: block;
+  margin: auto;
+  width: 300px;
+  height: 100px;
+  line-height: 25px;
+}
